@@ -8,10 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.assembla.com:ecapi.response.git"
+    "url": "https://github.com/facet/response-handler.git"
   },
+  "keywords": [
+    "facet",
+    "facet-response-handler",
+    "response-handler",
+    "response",
+    "handler"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/facet/response-handler/issues"
+  },
+  "homepage": "https://github.com/facet/response-handler",
   "dependencies": {
     "underscore": "^1.6.0"
   }
