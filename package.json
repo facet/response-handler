@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/facet/response-handler",
   "dependencies": {
+    "facet-core": "https://github.com/facet/core/tarball/master",
     "underscore": "^1.6.0"
   }
 }
